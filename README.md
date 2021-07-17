@@ -34,7 +34,7 @@ Clients should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-bootstrap-css-stats-preview-card-pw1W29vpP)
+- Solution URL: [Responsive Bootstrap CSS Stats Preview Card](https://www.frontendmentor.io/solutions/responsive-bootstrap-css-stats-preview-card-pw1W29vpP)
 - Live Site URL: [Deployed site on Vercel](https://lokotamathemastermind-stats-preview-card-bootstrap.vercel.app/)
 
 ## My process
