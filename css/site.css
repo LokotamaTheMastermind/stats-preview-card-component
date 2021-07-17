@@ -36,6 +36,14 @@
   padding-right: 50px;
 }
 
+.stats-numbers {
+  margin-top: 70px;
+}
+
 .card-body {
   margin-top: 7%;
+}
+
+.overlay {
+  background-color: hsla(277, 64%, 61%);
 }

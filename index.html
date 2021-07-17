@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
   <link rel="stylesheet" href="./assets/bootstrap/css/bootstrap.css" />
   <link rel="stylesheet" href="./css/site.css">
 
@@ -16,10 +16,12 @@
   <div class="container card-body">
     <div class="card-background rounded">
       <div class="row row-cols-1">
-        <div class="col-md-6 rounded-end order-md-last">
-          <img src="./images/image-header-desktop.jpg" alt="An image" class="w-100 h-100 rounded">
+        <div class="col-lg-6 rounded-end order-lg-last">
+          <div class="w-100 h-100 overlay rounded">
+            <img src="./images/image-header.jpg" alt="An image" class="w-100 h-100 rounded" style="opacity: .5;">
+          </div>
         </div>
-        <div class="col-md-6 stats-information order-md-start">
+        <div class="col-lg-6 stats-information order-lg-start">
           <h1 class="text-white text-md-start text-center pt-5 custom-font fw-bold">Get <mark
               class="accent">insights</mark>
             that help your
@@ -30,10 +32,10 @@
             revenue,
             customer experience, and
             overall effiency.</p>
-          <div class="row col-sm gap-4 gap-md-0 mt-5">
-            <div class=" col-md-4 text-center text-md-start">
+          <div class="row col-sm gap-4 gap-md-0 stats-numbers">
+            <div class=" col-md-4 text-center text-lg-start">
               <h1 class="text-white fw-bold custom-font">10k+</h1>
-              <h6 class="text-uppercase stats-heading custom-font-2">Companies</h6>
+              <h6 class="text-uppercase stats-heading custom-font-2" style="margin-right: 30px;">Companies</h6>
             </div>
             <div class="col-md-4 text-center text-md-start">
               <h1 class="text-white fw-bold custom-font">314</h1>
