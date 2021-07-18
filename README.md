@@ -55,7 +55,7 @@ Clients should be able to:
 <!-- It's a class in bootstrap for sectioning columns and rows for smaller screns and devices -->
 <!-- Example: -->
 
-<div class="row-cols-1">
+<div class="row row-cols-1">
     <div class="col-6"></div>
     <div class="col-6"></div>
 </div>
@@ -66,7 +66,7 @@ The above sets the column to be even on all devices but stay inside of 1 general
 ### Useful resources
 
 - [StackOverflow](https://www.stackoverflow.com) - This helped me to get ideas for how to make responsive grids and how to make the color overlay for the image.
-- [Bitflow created by me](https://bitflow.vercel.app) - This is what I used to get also an idea of how to mke an image have a color overlay
+- [Bitflow created by me](https://bitflow.vercel.app) - This is what I used to get also an idea of how to make an image have a color overlay
 
 ## Author
 
